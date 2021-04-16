@@ -5,8 +5,11 @@ Vote, comment, get info, get discounts for SKLEIA.com projecs for upcomming prod
 
 
 ## All Products
-
+Browse our products directly on GitHub
 https://github.com/roktiw/skleia/issues
+
+I you like the product please vote on it with thumbs up icon 👍
+![image](https://user-images.githubusercontent.com/6304323/115060898-b323c800-9ee8-11eb-99f2-a8cbcc9f9716.png)
 
 ---
 ### skleia shops
