@@ -3,6 +3,10 @@ Welcome to official skleia.com GitHub repository!
 
 Vote, comment, get info, get discounts for SKLEIA.com projecs for upcomming products.
 
+Skleia.com is shared economy brand that creates custom size plywood furniture. Mostly from plywood.
+
+If you are constantly woriking in front of your computer and you are looking for nice furniture, made with heart, by real people, crafters like you and you want those furniture to be ergonomic and fitting your space at the same time, then you are in the right place :)
+
 
 ## All Products
 Browse our products directly on GitHub
