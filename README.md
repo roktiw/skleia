@@ -33,7 +33,7 @@ I you like the product please vote on it with thumbs up icon 👍
 
 ### social media
 
-facebook www.facebook.com/skleiainstagram
+facebook www.facebook.com/skleia
 
 instagram www.instagram.com/skleia_com
 
