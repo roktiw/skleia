@@ -9,7 +9,8 @@ Browse our products directly on GitHub
 https://github.com/roktiw/skleia/issues
 
 ### 003 Custom Size Plywood Monitor Stand
-![https://github.com/roktiw/skleia/issues/1](https://user-images.githubusercontent.com/6304323/115061384-67255300-9ee9-11eb-8462-4969c945c454.jpeg)
+https://github.com/roktiw/skleia/issues/1
+![skleia com Custom Size Monitor Stand Desk Accessories Monitor Riser Speaker Stand 5 small](https://user-images.githubusercontent.com/6304323/115061652-bec3be80-9ee9-11eb-948f-2a46c47db40d.jpeg)
 
 
 ### Voting on projects
