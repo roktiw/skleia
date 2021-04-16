@@ -9,7 +9,7 @@ Vote, comment, get info, get discounts for SKLEIA.com projecs for upcomming prod
 https://github.com/roktiw/skleia/issues
 
 ---
-# skleia shops
+### skleia shops
 
 🇵🇱 skleia poland www.skleia.com
 
@@ -17,7 +17,7 @@ https://github.com/roktiw/skleia/issues
 
 🇬🇧 skleia world @ shopify www.etsy.com/shop/skleia
 
-# social media
+### social media
 
 facebook www.facebook.com/skleiainstagram
 
